@@ -1,2 +1,0 @@
-# TT
-Typing trainer project
