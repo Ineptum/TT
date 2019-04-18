@@ -64,8 +64,3 @@ GENERAL USAGE NOTES:
 
 	This will restart the session first -- (see number 4 above)
 		Congratulations. You have now switched the session's mode.
-  
-_____________________________________________________________________________________
-----------------------------------------------------------------------------------
-RUNNING TIP:
-  ONLY RUNS ON WINDOWS 7 AND HIGHER
