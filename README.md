@@ -1,6 +1,5 @@
-Learn Typing! Version 1.0.0 12/12/2018
-
-E-mail: artem.stavissky@yandex.ru, KatKollare@yandex.ru
+# Learn Typing! Version 1.0.0 12/12/2018
+# E-mail: artem.stavissky@yandex.ru, KatKollare@yandex.ru
 ______________________________________________________________________
 -------------------------------------------------------------------
 
