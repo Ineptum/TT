@@ -37,6 +37,7 @@ GENERAL USAGE NOTES:
 		Upon pressing a key you will either get a white or red glow on the button representing the key.
 
 4. REVIEWING YOUR RESULTS
+
 	Esc.
 		
 
