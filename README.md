@@ -29,6 +29,7 @@ GENERAL USAGE NOTES:
 	Spacebar.
 
 3. TRAINING
+		
 		You will be given text in the right section of the line in the middle of the screen.
 
 		You will have to type each of the letters you see there in order to complete the session.
