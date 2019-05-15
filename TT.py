@@ -220,7 +220,7 @@ class TT(QMainWindow, Ui_MainWindow):
         self.Restart.hide()
         self.Switch.hide()
 
-    def manageTyping(self):
+    def manage_typing(self):
         # Getting ready to show results in the end of key_press_event method
         self.let_counter += 1
 
@@ -380,7 +380,7 @@ class TT(QMainWindow, Ui_MainWindow):
                 self.letters[event.key()][0].setStyleSheet("background-color:"
                                                            "rgb(255, 255, 255);")
                 if self.letters[event.key()][1].upper() == self.typer[0].upper():
-                    self.manageTyping()
+                    self.manage_typing()
                 else:
                     self.letters[event.key()][0].setStyleSheet("background-colo"
                                                                "r: rgb(255, 108"
