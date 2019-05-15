@@ -88,7 +88,7 @@ class TT(QMainWindow, Ui_MainWindow):
 
         self.LeftPattern.show()
         self.RightPattern.show()
-        self.offKey()
+        self.turn_keys_off()
         self.Time.setText('Your result will be shown here')
         self.Time.setStyleSheet("color: rgb(44, 56, 97);")
         self.Errors.setText('')
