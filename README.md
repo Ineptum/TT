@@ -66,3 +66,7 @@ GENERAL USAGE NOTES:
 
 	This will restart the session first -- (see number 4 above)
 		Congratulations. You have now switched the session's mode.
+		
+# Install project requirements:
+
+pip install -r requirements.txt
